@@ -8,7 +8,7 @@ In this first exercise, we are going to:
 
 ## Tasks
 
-Head to the exercise "[Intro to HTML](http://codepen.io/NathanPJF/pen/eNzrPd)".
+Head to the exercise [Intro to HTML](http://codepen.io/NathanPJF/pen/eNzrPd)
 
 1. Write your name inside the `h2` tag.
 2. In the first paragraph tag, `<p>`, write the name of the team you work on.

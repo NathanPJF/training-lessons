@@ -4,7 +4,7 @@ In this exercise you will do some much needed editing to two HTML attributes.
 
 ## Tasks
 
-Head to the exercise "[HTML: Attributes](http://codepen.io/NathanPJF/pen/pJbVMy)".
+Head to the exercise [HTML: Attributes](http://codepen.io/NathanPJF/pen/pJbVMy)
 
 1. Change the image's source attribute, `src`, to the provided version of the current shopify logo.
   * Correct image source: `https://cdn.shopify.com/s/files/1/0070/7032/files/shopify-ipo-blog-banner.png`
