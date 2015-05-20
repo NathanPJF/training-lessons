@@ -1,6 +1,6 @@
-# Exercise 2: HTML - Class attribute
+# Exercise 3: HTML - Class attribute
 
-In this exercise we'll give this product page a legit makeover by applying the appropriate class attributes.
+In this exercise we'll give this product page a legit makeover by applying the appropriate `class` attributes.
 
 ## Tasks
 
