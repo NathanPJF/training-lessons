@@ -40,7 +40,7 @@ If you are feeling stuck be sure to check out the [CSS Reference page](http://ww
 
 ### Final result
 
-![http://i.imgur.com/XCSSAjt.png](http://i.imgur.com/XCSSAjt.png)
+![https://cdn.shopify.com/s/files/1/0300/9217/files/Final_exercise.png](https://cdn.shopify.com/s/files/1/0300/9217/files/Final_exercise.png)
 
 
 Please **Save** your work and submit that sweet, sweet link below.
