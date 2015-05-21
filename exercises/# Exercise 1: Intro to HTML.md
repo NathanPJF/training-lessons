@@ -1,4 +1,26 @@
-# Exercise 1: Intro to HTML
+# Intro to HTML
+
+HTML elements: Browsers have standard styling for basic elements. HTML elements are written with a start tag, with an end tag, with the content in between.
+
+```
+<tagname>content</tagname>
+```
+
+Above is the format that elements are written in. There are dozens of elements, but only a few are used commonly. Below is a list of a few of the more frequent elements used in themes.
+
+`<h1>Headers range from 1-6</h1>`
+
+`<p>Paragraph</p>`
+
+`<ul>Unordered List</ul>`
+
+`<li>List item</ul>`
+
+`<strong>Bolding text</strong>`
+
+`<a>Links</a>`
+
+## Exercise 1:
 
 In this first exercise, we are going to:
 
@@ -6,7 +28,7 @@ In this first exercise, we are going to:
 * add new HTML tags with content to the page, and
 * modify an existing HTML tag.
 
-## Tasks
+### Tasks
 
 Head to the exercise [Intro to HTML](http://codepen.io/NathanPJF/pen/eNzrPd)
 
