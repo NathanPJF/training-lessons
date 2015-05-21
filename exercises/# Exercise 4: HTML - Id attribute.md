@@ -1,6 +1,22 @@
 # HTML - Id attribute
 
-ID attributes are similar to class attributes in that they are used to apply additional styling to elements. However, unlike class attributes, an ID attribute can only be used by one element on a page, whereas class attributes can be used by several elements on a page. It is best practice not to use IDs when a class can be used instead.
+**ID attributes** are similar to class attributes in that they are used to apply additional styling to elements.
+
+#### HTML
+
+```
+<h2 id="promoText">Collection Title</h2>
+```
+#### CSS
+
+```
+#promoText{
+  font-size: 64px;
+  font-wieght: 400;
+}
+```
+
+Unlike class attributes, an ID attribute can **only be used once on a page**. For our purposes, it is best practice **not** to use IDs and stick to using classes.
 
 ## Exercise 4:
 
