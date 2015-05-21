@@ -1,13 +1,15 @@
 # HTML - Class attribute
 
-Using the **class attribute** within HTML elements makes it possible to apply additional styling to elements. Example: make text red, or increasing font size.
+Adding the **class attribute** to HTML elements makes it possible to apply additional styling to elements. For example: make the font color red, or increasing font size to 16px.
 
 Classes are defined in a markup language called "CSS". 
 
 #### HTML
+
 `<h3 class="notice">This is how CSS works</h3>`
 
 #### CSS
+
 ```
 .notice {
   color:red;
@@ -15,17 +17,28 @@ Classes are defined in a markup language called "CSS".
 }
 ```
 
-The above code would make the heading "This is how CSS works" red, with a font size of 16px.
+The above code would style the heading "This is how CSS works" to be the color red with a font size of 16px.
 
-Classes are always defined as **class="class-name"**. 
+Classes are always defined using the name/value pair syntax: **class="class-name"**. 
 
 `<h1 class="product-title">Title/h1>`
 
 `<p class="product-description">Paragraph</p>`
 
+
 You can have multiple values in the **class attribute** by separating them with a space.
 
 `<h2 class="product-price sale">Unordered List</h2>`
+
+*Fun fact:* A class attribute can be used as many times as you'd like on the page.
+
+```
+<h2 class="description">Contact information</h2>
+
+<p class="description">Location: 150 Elgin St, Ottawa, ON</p>
+
+<p class="description">Support hours: 24/7</p>
+```
 
 
 ## Exercise 3:
