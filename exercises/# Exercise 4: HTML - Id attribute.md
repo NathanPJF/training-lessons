@@ -24,7 +24,7 @@ Redesign this home page by applying `id` and `class` attributes as needed.
 
 ### Tasks
 
-Exercise link: [HTML: Id attribute](http://codepen.io/NathanPJF/pen/MweBbq)
+Exercise link: Go to [HTML: Id attribute](http://codepen.io/NathanPJF/pen/MweBbq) and click on "Fork" in the top left after logging in. This will create your own unique link that you'll submit once your changes are done.
 
 In addition to applying existing `id` and `class` attributes, you will need to make a CSS
 change to one of the style properties.  In order to make the page look like the screenshot
