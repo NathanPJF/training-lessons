@@ -6,11 +6,11 @@ Trainees should make a [free account on Code Pen](https://codepen.io/signup/free
 
 ## Exercises
 
-1. [Intro to HTML](https://github.com/NathanPJF/training-lessons/blob/master/exercises/%23%20Exercise%201:%20Intro%20to%20HTML.md)
-2. [HTML: Attributes](/blob/master/exercises/%23%20Exercise%202:%20HTML%20-%20Attributes.md)
-3. [HTML: Class attribute](http://codepen.io/NathanPJF/pen/LVZrGr)
-4. [HTML: Id attribute](http://codepen.io/NathanPJF/pen/MweBbq)
-5. [CSS](http://codepen.io/NathanPJF/pen/zGBLpQ)
+1. [Intro to HTML](/exercises/%23%20Exercise%201:%20Intro%20to%20HTML.md)
+2. [HTML: Attributes](/exercises/%23%20Exercise%202:%20HTML%20-%20Attributes.md)
+3. [HTML: Class attribute](/exercises/%23%20Exercise%203:%20HTML%20-%20Class%20attribute.md)
+4. [HTML: Id attribute](/exercises/%23%20Exercise%204:%20HTML%20-%20Id%20attribute.md)
+5. [CSS](/exercises/%23%20Exercise%205:%20CSS.md)
 
 ## For Markers
 
