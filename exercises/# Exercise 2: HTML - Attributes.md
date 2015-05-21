@@ -21,7 +21,7 @@ Below is a list of a few of the more common attributes used in themes.
 
 In this exercise you will do some much needed editing to two HTML attributes.
 
-## Tasks
+### Tasks
 
 Head to the exercise [HTML: Attributes](http://codepen.io/NathanPJF/pen/pJbVMy)
 
