@@ -8,17 +8,19 @@ HTML elements: Browsers have standard styling for basic elements. HTML elements 
 
 Above is the format that elements are written in. There are dozens of elements, but only a few are used commonly. Below is a list of a few of the more frequent elements used in themes.
 
-`<h1>Headers range from 1-6</h1>`
+`<h1> Header level 1 </h1>`
 
-`<p>Paragraph</p>`
+`<h2> Header level 2 </h2>`
 
-`<ul>Unordered List</ul>`
+`<p> Paragraph </p>`
 
-`<li>List item</ul>`
+`<ul> Unordered List - contains list items </ul>`
 
-`<strong>Bolding text</strong>`
+`<li> List item </li>`
 
-`<a>Links</a>`
+`<strong> Bolding text </strong>`
+
+`<a> Links </a>`
 
 There are a handful of HTML elements which are "self-closing", so there is no content section between tags.  For example, the **image** element:
 
