@@ -12,7 +12,7 @@
 ```
 #promoText{
   font-size: 64px;
-  font-wieght: 400;
+  font-weight: 400;
 }
 ```
 
