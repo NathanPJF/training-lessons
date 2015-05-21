@@ -53,7 +53,7 @@ various HTML elements.
 
 ### Tasks
 
-Portal to boss battle stage: [CSS](http://codepen.io/NathanPJF/pen/zGBLpQ)
+Portal to boss battle stage: Go to [CSS](http://codepen.io/NathanPJF/pen/zGBLpQ) and click on "Fork" in the top left after logging in. This will create your own unique link that you'll submit once your changes are done.
 
 Below are a list of styles you will need to write with CSS.  The HTML on the page
 is **not to be changed**, so your style declarations will need to match the `class` attributes
