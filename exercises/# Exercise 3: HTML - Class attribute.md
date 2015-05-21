@@ -47,7 +47,7 @@ In this exercise we'll give this product page a legit makeover by applying the a
 
 ### Tasks
 
-Head to the exercise [HTML: Class attribute](http://codepen.io/NathanPJF/pen/LVZrGr)
+Head to the exercise [HTML: Class attribute](http://codepen.io/NathanPJF/pen/LVZrGr) and click on "Fork" in the top left after logging in. This will create your own unique link that you'll submit once your changes are done.
 
 You won't be writing any new CSS to complete this exercise.  Use the existing classes in the exercise's CSS section and apply them to HTML tags.  The goal is to make it look like this:
 
