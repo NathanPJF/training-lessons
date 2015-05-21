@@ -20,22 +20,22 @@ p {
 
 ### Specificity in CSS
 
-If we wanted to select just one particular paragraph tag and change its font color to `red`, then we need a way to **specify** that.  The best way is with adding a class.
+If we wanted to select just *one particular paragraph* and change its font color to `red`, then we need a way to **specify** that.  The best way is with adding a class attribtue. In the example below, we add the attribute `class="note"` to one of the paragraph tags.
 
 **HTML**
 
 ```
 <p>First line of description</p>
-<p class="warning">Important line of description</p>
+<p class="note">Important line of description</p>
 <p>Last line of description</p>
 ```
 
-Now let's make our selector any paragraph tag *with* the class of warning.
+Now let's make our CSS selector any paragraph tag *with* the class of warning.  Do this by writing `p.note`.  The period before `note` tells CSS that "note" is a class, and not another HTML element.
 
 **CSS**
 
 ```
-p.warning {
+p.note {
   color: red;
 }
 ```
