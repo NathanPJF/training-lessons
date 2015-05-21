@@ -16,7 +16,7 @@
 }
 ```
 
-Unlike class attributes, an ID attribute can **only be used once on a page**. For our purposes, it is best practice **not** to use IDs and stick to using classes.
+Unlike class attributes, an ID attribute can **only be used once on a page**. For our purposes, it is best practice *not* to use IDs and stick to using classes.
 
 ## Exercise 4:
 
