@@ -36,7 +36,7 @@ In this first exercise, we are going to:
 
 ### Tasks
 
-Head to the exercise [Intro to HTML](http://codepen.io/NathanPJF/pen/eNzrPd)
+Head to the exercise [Intro to HTML](http://codepen.io/NathanPJF/pen/eNzrPd) and click on "Fork" in the top left after logging in. This will create your own unique link that you'll submit once your changes are done.
 
 1. Write your name inside the `h2` tag.
 2. In the first paragraph tag, `<p>`, write the name of the team you work on.
