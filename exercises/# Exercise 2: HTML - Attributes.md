@@ -15,7 +15,7 @@ Below is a list of a few of the more common attributes used in themes.
 
 `<img src="http://www.website.com/images/picture.jpg">`
 
-`<input type="checkbox">`
+`<input type="checkbox" value="on">`
 
 ## Exercise 2:
 
