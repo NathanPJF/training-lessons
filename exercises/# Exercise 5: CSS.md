@@ -80,7 +80,7 @@ If you are feeling stuck be sure to check out the [CSS Reference page](http://ww
 **Shipping notice**
 
   - color of #852929
-  - CSS class specified to accompany a paragraph tag
+  - CSS selector should read "any paragraph tag with this class"
 
 **Images**
 
