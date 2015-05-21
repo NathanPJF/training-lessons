@@ -30,7 +30,7 @@ If we wanted to select just *one particular paragraph* and change its font color
 <p>Last line of description</p>
 ```
 
-Now let's make our CSS selector any paragraph tag *with* the class of "note".  Do this by writing `p.note`.  The period before `note` tells CSS that "note" is a class, and not another HTML element.
+Now let's make our CSS selector any paragraph tag *with* the class of "note".  Do this by writing `p.note`.  The period in `.note` tells CSS that "note" is a class, and not another HTML element.
 
 **CSS**
 
