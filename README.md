@@ -6,8 +6,8 @@ Trainees should make a [free account on Code Pen](https://codepen.io/signup/free
 
 ## Exercises
 
-1. [Intro to HTML](http://codepen.io/NathanPJF/pen/eNzrPd)
-2. [HTML: Attributes](http://codepen.io/NathanPJF/pen/pJbVMy)
+1. [Intro to HTML](https://github.com/NathanPJF/training-lessons/blob/master/exercises/%23%20Exercise%201:%20Intro%20to%20HTML.md)
+2. [HTML: Attributes](/blob/master/exercises/%23%20Exercise%202:%20HTML%20-%20Attributes.md)
 3. [HTML: Class attribute](http://codepen.io/NathanPJF/pen/LVZrGr)
 4. [HTML: Id attribute](http://codepen.io/NathanPJF/pen/MweBbq)
 5. [CSS](http://codepen.io/NathanPJF/pen/zGBLpQ)
