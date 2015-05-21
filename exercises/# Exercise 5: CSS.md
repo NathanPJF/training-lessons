@@ -28,7 +28,9 @@ The best way is with adding a class attribtue. In the example below, we add the 
 
 ```
 <p>First line of description</p>
+
 <p class="note">Important line of description</p>
+
 <p>Last line of description</p>
 ```
 
