@@ -20,6 +20,10 @@ Above is the format that elements are written in. There are dozens of elements, 
 
 `<a>Links</a>`
 
+There are a handful of HTML elements which are "self-closing", so there is no content section between tags.  For example, the **image** element:
+
+`<img src="picture of a cat.jpg>`
+
 ## Exercise 1:
 
 In this first exercise, we are going to:
