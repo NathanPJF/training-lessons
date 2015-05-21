@@ -1,6 +1,6 @@
 # CSS
 
-CSS is a "mark-up" language used to style HTML elements on the page.  You know how to assign different classes to an HTML element with the **class attribute**, but now we'll learn how to write the actual CSS to match.
+CSS is a "mark-up" language used to style **HTML elements** on a page.  You know how to assign different classes to an HTML element with the **class attribute**, but now we'll learn how to write the actual CSS to match.
 
 A CSS **declaration** has three parts: selector, property, and value.
 
@@ -10,7 +10,7 @@ selector {
 }
 ```
 
-If we want to select all paragraph tags and make their font-size 16px, we would write:
+If we want to select all paragraph tags and make their font-size `16px`, we would write:
 
 ```
 p {
