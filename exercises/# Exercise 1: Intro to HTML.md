@@ -13,6 +13,7 @@ Above is the format that elements are written in. There are dozens of elements, 
 `<p>Paragraph</p>`
 
 `<ul>Unordered List</ul>`
+/maybe a bit more detail here to distinguish this from 'list item'. 'An unordered list is the container for the <li> items.' /
 
 `<li>List item</ul>`
 
