@@ -30,6 +30,8 @@ In addition to applying existing `id` and `class` attributes, you will need to m
 change to one of the style properties.  In order to make the page look like the screenshot
 below, be sure that the font color for everything is set to `white` or `#fff`.
 
+*Pro tip*: You'll need to change some CSS.  I have full confidence in you!
+
 ![https://cdn.shopify.com/s/files/1/0300/9217/files/HTML_Id_exercise.png](https://cdn.shopify.com/s/files/1/0300/9217/files/HTML_Id_exercise.png)
 
 
