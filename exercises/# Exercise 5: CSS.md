@@ -20,7 +20,7 @@ p {
 
 ### Specificity in CSS
 
-If we wanted to select just one particular paragraph tag and change it's font color to `red`, then we need a way to **specify** that.  The best way is with adding a class.
+If we wanted to select just one particular paragraph tag and change its font color to `red`, then we need a way to **specify** that.  The best way is with adding a class.
 
 **HTML**
 
