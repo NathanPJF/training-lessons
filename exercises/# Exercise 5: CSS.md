@@ -1,9 +1,52 @@
-# Exercise 5: CSS
+# CSS
+
+CSS is a "mark-up" language used to style HTML elements on the page.  You know how to assign different classes to an HTML element with the **class attribute**, but now we'll learn how to write the actual CSS to match.
+
+A CSS **declaration** has three parts: selector, property, and value.
+
+```
+selector {
+  property: value;
+}
+```
+
+If we want to select all paragraph tags and make their font-size 16px, we would write:
+
+```
+p {
+  font-size: 16px;
+}
+```
+
+### Specificty in CSS
+
+If we wanted to select just one particular paragraph tag and change it's font color to `red`, then we need a way to **specify** that.  The best way is with adding a class.
+
+**HTML**
+
+```
+<p>First line of description</p>
+<p class="warning">Important line of description</p>
+<p>Last line of description</p>
+```
+
+Now let's make our selector any paragraph tag *with* the class of warning.
+
+**CSS**
+
+```
+p.warning {
+  color: red;
+}
+```
+
+
+## Exercise 5
 
 In the **final** exercise, you will need to write CSS declarations to style the page's
 various HTML elements.
 
-## Tasks
+### Tasks
 
 Portal to boss battle stage: [CSS](http://codepen.io/NathanPJF/pen/zGBLpQ)
 
