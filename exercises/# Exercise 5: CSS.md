@@ -56,7 +56,7 @@ various HTML elements.
 Portal to boss battle stage: [CSS](http://codepen.io/NathanPJF/pen/zGBLpQ)
 
 Below are a list of styles you will need to write with CSS.  The HTML on the page
-is not to be changed, so your style declarations will need to match the `class` attributes
+is **not to be changed**, so your style declarations will need to match the `class` attributes
 that have already been applied to the HTML tags.
 
 If you are feeling stuck be sure to check out the [CSS Reference page](http://www.w3schools.com/cssref/) at W3Schools.  Another valid tool is Google.
