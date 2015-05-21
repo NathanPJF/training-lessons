@@ -1,6 +1,6 @@
 # HTML - Id attribute
 
-**ID attributes** are similar to class attributes in that they are used to apply additional styling to elements.
+**ID attributes** are similar to class attributes in that they can be used to apply additional styling to elements.
 
 #### HTML
 
